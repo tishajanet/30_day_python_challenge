@@ -1,6 +1,4 @@
 """Part A
-
-
 Create a dictionary:
 stats = {
     "count": 10,
