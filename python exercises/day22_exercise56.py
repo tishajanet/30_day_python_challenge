@@ -6,6 +6,8 @@ import sys
 
 def main():
     numbers = [10, 20, 30, 40]
+
+    #create a for loop to print each number on a new line
     for n in numbers:
         print(n)
     return 0
